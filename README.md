@@ -1,0 +1,1 @@
+This repository demonstrates a common Node.js error: unhandled exceptions causing server crashes. The `bug.js` file contains the erroneous code, while `bugSolution.js` provides a corrected version with robust error handling.
